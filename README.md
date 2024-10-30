@@ -31,10 +31,10 @@
 
 ### </> Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesmori&layout=compact&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesmori&layout=compact&theme=gruvbox)
 
 #
 
 ### 📊 Stats
 
-![Hades's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadesmori&show_icons=true&theme=shadow_red)
+![Hades's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadesmori&show_icons=true&theme=gruvbox)
